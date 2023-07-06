@@ -58,5 +58,5 @@ Recursos:
 👉  https://plataforma.nucba.io/c/documentaciones/documentacion-css-responsive-diseno-web
 
 Versel:
-
+https://nucba-integrador-ezequiel-abas.vercel.app/
 
